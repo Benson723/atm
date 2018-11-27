@@ -94,7 +94,7 @@ if ($fdep>=0 )
     <tr>
       <td style="color:#FFF"> AMOUNT</td>
       <td><label for="amount"></label>
-      <input type="text" name="amount" id="amount" required="required" /></td>
+      <input type="text" name="amount" id="amount" required="required" / placeholder="Enter Amount"></td>
     </tr>
     <tr>
       <td>&nbsp;</td>

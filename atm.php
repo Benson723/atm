@@ -45,9 +45,7 @@ ob_start();
 <body background="acnmng1.png">
 <form id="form1" name="form1" method="post" action="">
   <p>&nbsp;</p>
-  <p align="right">
-    <input type="submit" name="logout" id="logout" value="Logout" />
-  </p>
+  <p align="right">&nbsp;</p>
   <p>&nbsp;</p>
   <p>&nbsp;</p>
   <p>&nbsp;</p>
@@ -69,6 +67,12 @@ ob_start();
      
     </tr>
   </table>
+      <table width="104" border="0" align="center">
+        <tr>
+          <td><input type="submit" name="logout" id="logout" value="   Logout    "style="height:60px;width:180px;background-color:#666"/></td>
+        </tr>
+      </table>
+      <p>&nbsp;</p>
 </form>
 </body>
 </html>

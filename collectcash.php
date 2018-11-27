@@ -1,6 +1,6 @@
 <?php
  session_start();
- header( "refresh:4;url=balance.php" );
+ header( "refresh:2;url=balance.php" );
 
 //session_destroy();
 ?>
